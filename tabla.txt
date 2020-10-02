@@ -1,1 +1,4 @@
 La la tabla de multiicar del 5
+
+5 x 0 = 0
+5 x1 = 5

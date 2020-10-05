@@ -3,3 +3,4 @@ La tabla de multiplicar del 5
 5 x1 = 5
 5x2 = 10
 5x3 = 16
+5x4 = 20
